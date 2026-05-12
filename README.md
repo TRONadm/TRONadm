@@ -22,7 +22,7 @@ I'm a former Project Manager redirecting my career toward offensive security. Af
 ## 🛠️ Technical Stack
 
 **Offensive Security**
-`Nmap` · `Burp Suite` · `Metasploit` · `BloodHound` · `CrackMapExec` · `Hydra` · `John the Ripper` · `Hashcat` · `Gobuster` · `ffuf` · `sqlmap` · `Wireshark`
+`Nmap` · `Burp Suite` · `Metasploit` · `BloodHound` · `CrackMapExec` · `Hydra`  · `Hashcat` · `Gobuster` · `ffuf` · `sqlmap` · `Wireshark`
 
 **Operating Systems**
 `Kali Linux` · `Parrot OS` · `Windows` · `macOS`
