@@ -9,9 +9,9 @@ I'm a former Project Manager redirecting my career toward offensive security. Af
 ## 🎯 Current Focus
 
 - **Certifications in progress**
-  - 🟢 **eJPT** — eLearnSecurity Junior Penetration Tester
-  - 🟢 **CAPM** — Certified Associate in Project Management *(leveraging PM background)*
-- **Roadmap next**: CompTIA Security+, PNPT, OSCP
+  -  **eJPT** — eLearnSecurity Junior Penetration Tester
+  -  **CAPM** — Certified Associate in Project Management *(leveraging PM background)*
+- **Roadmap next**: CompTIA Security+, PNPT, CPTS, OSCP
 
 ## 🧪 What I'm Working On
 
@@ -28,8 +28,7 @@ I'm a former Project Manager redirecting my career toward offensive security. Af
 `Kali Linux` · `Parrot OS` · `Windows` · `macOS`
 
 **Scripting & Development**
-`Python` · `Bash` · `PowerShell` · `Go` *(learning)*
-
+`Python` · `Bash` · `PowerShell` · `Go` *(learning)* . `C, C++`
 **Lab & CTF Platforms**
 `HackTheBox` · `TryHackMe` · `VulnHub` · `PortSwigger Web Security Academy`
 
@@ -39,10 +38,10 @@ Project management taught me how systems fail at the human layer: missed handoff
 
 ## 📫 Contact
 
-- **LinkedIn**: *coming soon*
-- **HackTheBox**: *profile in progress*
+- **LinkedIn**: *https://www.linkedin.com/in/alessandro-vergara-2a55bb1bb/*
+- **HackTheBox**: *https://profile.hackthebox.com/profile/019e1d61-3527-7004-990f-02bba6e885c3*
 - **Email**: available on request
 
 ---
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
+> *"The quieter you become, the more you are able to hear."
