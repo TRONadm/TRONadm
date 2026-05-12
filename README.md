@@ -29,6 +29,7 @@ I'm a former Project Manager redirecting my career toward offensive security. Af
 
 **Scripting & Development**
 `Python` · `Bash` · `PowerShell` · `Go` *(learning)* . `C, C++`*(learning)*
+
 **Lab & CTF Platforms**
 `HackTheBox` · `TryHackMe` · `VulnHub` · `PortSwigger Web Security Academy`
 
