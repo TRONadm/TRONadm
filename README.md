@@ -45,4 +45,4 @@ Project management taught me how systems fail at the human layer: missed handoff
 
 ---
 
-> *"Being quiet is the key."
+> *"Being quiet is the key."*
