@@ -44,4 +44,4 @@ Project management taught me how systems fail at the human layer: missed handoff
 
 ---
 
-> *"The quieter you become, the more you are able to hear."
+> *"Being quiet is the key."
